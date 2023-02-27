@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+References
+=================
+Good and bad html/csv is created using my website on github
+https://vardansaini.github.io/vardansaini/
+My website was orginally inspired from
+https://www.youtube.com/watch?v=I2UBjN5ER4s
